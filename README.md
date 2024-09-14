@@ -67,6 +67,7 @@ CREATE TABLE products (
 
 
 
+![img3 (1)](https://github.com/user-attachments/assets/49eb70e9-524a-4448-89f5-e9c090e8d696)
 
 ## API Endpoints
 
